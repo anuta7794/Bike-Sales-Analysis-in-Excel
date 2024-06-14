@@ -35,7 +35,7 @@ The dataset includes 1000 records of individuals with the following columns:
 
 ## **Steps:**
 
-### 1.	### Data Cleaning:
+### 1. Data Cleaning:
 		
 	Removed duplicates.
 
@@ -46,11 +46,11 @@ The dataset includes 1000 records of individuals with the following columns:
 	Created a new column "Age Brackets" using nested _IF statement_ to categorize users into age ranges for better analysis.
 
 
-### 2.	### Pivot Tables:
+### 2. Pivot Tables:
 
 Created three pivot tables to aggregate and summarize data, unveiling patterns and correlations between various demographic and behavioral attributes and bike purchase decisions.
 
-### 3.	### Chart Dashboard Creation:
+### 3. Chart Dashboard Creation:
 
 •	Clustered Column Chart **_“Average Income Per Purchase”_** visualizes the average income of users who made a bike purchase.
 
