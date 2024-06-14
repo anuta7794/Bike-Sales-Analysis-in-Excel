@@ -35,7 +35,7 @@ The dataset includes 1000 records of individuals with the following columns:
 
 ## **Steps:**
 
-1.	### Data Cleaning:
+### 1.	### Data Cleaning:
 		
 	Removed duplicates.
 
@@ -46,11 +46,11 @@ The dataset includes 1000 records of individuals with the following columns:
 	Created a new column "Age Brackets" using nested _IF statement_ to categorize users into age ranges for better analysis.
 
 
-2.	### Pivot Tables:
+### 2.	### Pivot Tables:
 
 Created three pivot tables to aggregate and summarize data, unveiling patterns and correlations between various demographic and behavioral attributes and bike purchase decisions.
 
-3.	### Chart Dashboard Creation:
+### 3.	### Chart Dashboard Creation:
 
 •	Clustered Column Chart **_“Average Income Per Purchase”_** visualizes the average income of users who made a bike purchase.
 
@@ -72,7 +72,7 @@ Created three pivot tables to aggregate and summarize data, unveiling patterns a
 4) Customer commute distance does influence the likelihood of buying a bike.
 5) Individuals with shorter commute distances are more likely to purchase bikes.
 6) Adolescent professionals with higher income and shorter commute distance are more likely to purchase a bike.
-7) Individuals in Pacific with longer commute distances are more likely to purchase bikes.
+7) Individuals in Pacific region with longer commute distances are more likely to purchase bikes.
 
 
 
