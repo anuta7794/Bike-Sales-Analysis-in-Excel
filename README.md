@@ -1,7 +1,7 @@
 # **Bike Sales Analysis in Excel**
 
 ## **Objective:**
-The primary objective of this project is to analyze the Bike Buyers Dataset from [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?resource=download) to identify patterns and insights into the factors influencing bike purchases. This involves cleaning the data, creating pivot tables to perform exploratory data analysis, and building a dashboard to visualize the findings.
+The primary objective of this project is to analyze **_the Bike Buyers Dataset_** from [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?resource=download) to identify patterns and insights into the factors influencing bike purchases. This involves cleaning the data, creating pivot tables to perform exploratory data analysis, and building a dashboard to visualize the findings.
 
 ## **Dataset:**
 
